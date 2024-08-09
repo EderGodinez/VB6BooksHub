@@ -1,0 +1,15 @@
+AdminForm = 78, 78, 1407, 720, , 26, 26, 1446, 832, C
+Libro = 234, 234, 1563, 876, 
+LoginForm = 234, 234, 1594, 823, , 0, 0, 1360, 589, C
+UsersViewForm = 130, 130, 1490, 719, , 104, 104, 1464, 693, C
+RegisterForm = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Encryptacion = 0, 0, 0, 0, C
+ButtonHandler = 26, 26, 1453, 615, 
+DBConection = 0, 0, 0, 0, C
+DetailsForm = 286, 286, 1646, 875, , 260, 260, 1620, 849, C
+BookSelected = 26, 26, 1386, 615, 
+DB_Actions = 52, 52, 1479, 641, 
+User = 208, 208, 1568, 797, 
+CurrentUser = 260, 260, 1620, 849, 
+FavoriteBooksForm = 286, 286, 1646, 875, , 208, 208, 1568, 797, C
+BooksReadForm = 260, 260, 1620, 849, , 234, 234, 1594, 823, C
