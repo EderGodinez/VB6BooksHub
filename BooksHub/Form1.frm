@@ -450,18 +450,6 @@ Dim imgPath As String
 Dim searchTerm As String
 
 
-Private Sub CbCategory_KeyPress(KeyAscii As Integer)
-    If KeyAscii = vbKeyBack Then
-        If Len(searchTerm) > 0 Then
-            searchTerm = Left(searchTerm, Len(searchTerm) - 1)
-        End If
-    Else
-        searchTerm = searchTerm & Chr(KeyAscii)
-    End If
-    LoadComboBox searchTerm
-    KeyAscii = 0
-End Sub
-
 Private Sub CmdAddBock_Click()
     If ValidateTextBoxes() Then
         MsgBox "Libro " & TxtTitle.Text & " guardado con exito :D.", vbInformation
