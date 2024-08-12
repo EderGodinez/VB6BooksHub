@@ -128,7 +128,7 @@ En este caso se utilizaron formularios y botones para empezar a diseñar una ses
 # Restrospectiva
 | Aspecto                    | Detalles                                                                                                                                                                                                                                                                                                               |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ¿Qué salió bien?           |  * Se pudo entender un poco las bases de lo que es el lenguaje visual basic 6. <br> * Se completo el objetivo al igual que implemento de manera exitosa un login con encriptacion de contraseñas |
+| ¿Qué salió bien?           | * Se pudiero agregar los componentes de visualizacion de manera dinamica en formulario de usuarios comunes <br>* Se pudo entender un poco las bases de lo que es el lenguaje visual basic 6. <br> * Se completo el objetivo al igual que implemento de manera exitosa un login con encriptacion de contraseñas |
 | ¿Qué puedo hacer diferente? | * Dedicarle más tiempo a comprender Visual Basic. <br> * Reutilización de código para evitar muchos Form  |
 | ¿Qué no salió bien?        |  * Falta de un diseño un poco mas amigable con el usuario.|
 
